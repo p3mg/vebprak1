@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vebprak1/static/css/main.d4459d6b.css",
+    "main.js": "/vebprak1/static/js/main.f5e6a8db.js",
+    "index.html": "/vebprak1/index.html",
+    "main.d4459d6b.css.map": "/vebprak1/static/css/main.d4459d6b.css.map",
+    "main.f5e6a8db.js.map": "/vebprak1/static/js/main.f5e6a8db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4459d6b.css",
+    "static/js/main.f5e6a8db.js"
+  ]
+}
